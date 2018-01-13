@@ -69,7 +69,7 @@ The infamous hello world example in PHP:
 or even shorter
 
 ```php
-<?='Hello World;
+<?='Hello World';
 ```
 
 ---
