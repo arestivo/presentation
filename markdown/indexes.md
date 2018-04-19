@@ -491,7 +491,7 @@ CREATE INDEX name ON table USING btree (column);
 CREATE INDEX name ON table USING hash (column);
 ~~~
 
-PostgreSQL does not support primary indexes. All indexes are secondary and thus, sparse.
+PostgreSQL does not support primary indexes. All indexes are secondary and thus, dense.
 
 ---
 
